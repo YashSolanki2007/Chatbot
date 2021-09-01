@@ -1,0 +1,130 @@
+[
+    {
+        "sentence": "Hello What's up",
+        "tag": 0
+    },
+    {
+        "sentence": "Hi",
+        "tag": 0
+    },
+    {
+        "sentence": "Hello",
+        "tag": 0
+    },
+    {
+        "sentence": "What is your name",
+        "tag": 1
+    },
+    {
+        "sentence": "What's your Name",
+        "tag": 1
+    },
+    {
+        "sentence": "What is your age",
+        "tag": 2
+    },
+    {
+        "sentence": "How old are you",
+        "tag": 2
+    },
+    {
+        "sentence": "How many years young are you respected sir",
+        "tag": 2
+    },
+    {
+        "sentence": "Bye",
+        "tag": 3
+    },
+    {
+        "sentence": "Goodbye",
+        "tag": 3
+    },
+    {
+        "sentence": "See you soon",
+        "tag": 3
+    },
+    {
+        "sentence": "Bitch",
+        "tag": 4
+    },
+    {
+        "sentence": "Shut up you idiot",
+        "tag": 4
+    },
+    {
+        "sentence": "Why are you a bitch",
+        "tag": 4
+    },
+    {
+        "sentence": "Why are you a jerk",
+        "tag": 4
+    },
+    {
+        "sentence": "Why are you are a dissapointment",
+        "tag": 4
+    },
+    {
+        "sentence": "Siri is better",
+        "tag": 4
+    },
+    {
+        "sentence": "What is a cookie",
+        "tag": 5
+    },
+    {
+        "sentence": "What is",
+        "tag": 5
+    },
+    {
+        "sentence": "What is a social media platform",
+        "tag": 5
+    },
+    {
+        "sentence": "How to code",
+        "tag": 5
+    },
+    {
+        "sentence": "How to cook nachos",
+        "tag": 5
+    },
+    {
+        "sentence": "How to cook spinsi salsa",
+        "tag": 5
+    },
+    {
+        "sentence": "What is IRCTC",
+        "tag": 5
+    },
+    {
+        "sentence": "What is the UN",
+        "tag": 5
+    },
+    {
+        "sentence": "Who owns google",
+        "tag": 5
+    },
+    {
+        "sentence": "When was Elon Musk born",
+        "tag": 5
+    },
+    {
+        "sentence": "What is the full form of USA",
+        "tag": 5
+    },
+    {
+        "sentence": "What is the time right now?",
+        "tag": 6
+    },
+    {
+        "sentence": "What is the time rn?",
+        "tag": 6
+    },
+    {
+        "sentence": "Wht is the time right now",
+        "tag": 6
+    },
+    {
+        "sentence": "What is the current time",
+        "tag": 6
+    }
+]
